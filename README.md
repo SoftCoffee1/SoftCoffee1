@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=6AD8F7&height=300&section=header&text=Hello&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=6AD8F7&height=300&section=header&text=Hi&fontSize=90)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=softcoffee)](https://solved.ac/softcoffee/)
 
@@ -6,11 +6,9 @@
 
 <h3>Currently Learning</h3><br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![Django](https://img.shields.io/badge/Django-3776AB.svg?&style=for-the-badge&logo=Django&logoColor=white)
+![C](https://img.shields.io/badge/C-3776AB.svg?&style=for-the-badge&logo=C&logoColor=white)
 
 <h3>Using</h3><br>
 
@@ -18,5 +16,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 
-<p>🔭 I’m currently working on Naver BoostCamp <br>
-  🌱 I’m currently learning Web FullStack (BE)</p>
+<p>🏫 I’m currently studying at sogang university <br>
+  🌱 I’m currently learning Web Backend in likelion
+  ⌛️ I'll be working at LG CNS from Feb 2023
+</p>
