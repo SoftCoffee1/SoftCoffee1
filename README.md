@@ -18,5 +18,4 @@
 
 <p>🏫 I’m currently studying at sogang university <br>
   🌱 I’m currently learning Web Backend in likelion <br>
-  ⌛️ I'll be working at LG CNS from Feb 2023
 </p>
